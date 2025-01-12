@@ -1,15 +1,14 @@
-# [34mCollege Lab Work[0m
+# 🌟 College Lab Work
 
-## [32mDescription[0m
-[37mThis repository serves as a centralized collection of all the work completed across various college labs. It includes projects, assignments, and experiments from different courses, organized by subject and lab.[0m
+## 📘 Description
+This repository serves as a centralized collection of all the work completed across various college labs. It includes projects, assignments, and experiments from different courses, organized by subject and lab.
 
-## [32mContents[0m
-[37m- Detailed lab work with code, reports, and documentation.
-- Structured folders for each course/lab for easy navigation.
-- Tools, technologies, and languages used during the labs.[0m
+## 📂 Contents
+- **Detailed lab work** with code, reports, and documentation.
+- **Structured folders** for each course/lab for easy navigation.
+- **Tools, technologies, and languages** used during the labs.
 
-## [32mPurpose[0m
-[37m- Track academic progress and learning journey.
+## 🎯 Purpose
+- Track academic progress and learning journey.
 - Maintain a well-organized portfolio of lab work.
-- Facilitate future reference and sharing with peers or instructors.[0m
-
+- Facilitate future reference and sharing with peers or instructors.
